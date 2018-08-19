@@ -1,5 +1,6 @@
 # ftg.ps.project.ms.jregistry
 -- repo pour le registry
+Test 2 Build Auto
 
 Lancement/ Commande à executer
 Aller dans le repertoire avec le pom.xml (pour le build maven)
