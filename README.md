@@ -1,7 +1,7 @@
 # ftg.ps.project.ms.jregistry
-repo pour le registry
+-- repo pour le registry
 
-Lancement/ COmmande à executer
+Lancement/ Commande à executer
 Aller dans le repertoire avec le pom.xml (pour le build maven)
 Lancer comand: mvn compile
 Lancer comand: yarn
