@@ -11,3 +11,5 @@ Lancer comand: yarn start (registry disponible sur http://localhost:9000)
 Pour revenir sur le port 8761
 Faire Ctrl C --> Oui
 Lancer comand: mvnw
+
+Test DockerHub
